@@ -1,6 +1,6 @@
 # 🚀 Welcome to My Coding Universe! 🌌
 
-Hey there! I'm Dennis Kimani, a software engineer who loves to explore the vast galaxies of code and build amazing things. 🌠
+Hey there! I'm a software engineer who loves to explore the vast galaxies of code and build amazing things. 🌠
 
 ## 🛠️ My Superpowers
 
